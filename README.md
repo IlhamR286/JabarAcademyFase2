@@ -18,3 +18,9 @@ Repositori ini berisi kumpulan dokumentasi, catatan belajar, dan kode dari berba
 ## 📅 Struktur Tugas Harian
 
 Template nextjs-dashboard dalam repositori ini digunakan dalam penerapan tugas atau materi pembelajaran berdasarkan hari pelaksanaan
+
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website..
