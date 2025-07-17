@@ -14,8 +14,8 @@ export default function RootLayout({
         <nav style={{ padding: '1rem', backgroundColor: '#f5f5f5' }}>
           <Link href="/" style={{ marginRight: '1rem' }}>Home</Link>
           <Link href="/about" style={{ marginRight: '1rem' }}>About</Link>
-          <Link href="/profile" style={{ marginRight: '1rem' }}>Profile</Link>
-          <Link href="/products/1" style={{ marginRight: '1rem' }}>Produk 1</Link>
+          <Link href="/products" style={{ marginRight: '1rem' }}>Produk</Link>
+          <Link href="/products/1" style={{ marginRight: '1rem' }}>Detail Produk 1</Link>
         </nav>
 
         {/* Konten halaman */}
